@@ -1,7 +1,7 @@
 ---
 title: Git Commands
 date: 2020-04-09 07:26:58
-tags:
+tags: tips
 ---
 
 git stash
